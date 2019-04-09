@@ -1,0 +1,220 @@
+@charset "UTF-8";
+
+<
+style>.form-inline {
+	float: right;
+	margin: right;
+	padding: right;
+}
+
+#navHome {
+	
+	background: #FCB3AE;
+}
+#mittigText { 
+	text-align: center;
+	margin: top;
+	font-family:'Noteworthy', Helvetica, Arial, sans-serif;
+	text-shadow: 3px 3px 3px #FCB3AE;
+	letter-spacing: 4px;
+	word-spacing:10px;	
+}
+
+.navbar { color:#FCB3AE;
+	
+	
+}
+
+.jumbotron {
+	margin: 50px 100px 50px 100px;
+	padding: 200px 200px 200px 200px;
+	text-align: center;
+	background-color: white;
+}
+
+#linksbündig {
+	text-align: left;
+	margin: 5px 10px 5px 10px;
+	padding: 10px 10px 10px 10px;
+}
+
+#rechtsbündig {
+	float: right;
+	margin: 10px 10px 10px 700px;
+	padding: 10px 10px 10px 700px;
+}
+
+#fsocial {
+	margin: 10px 10px 10px 10px;
+}
+
+}
+.fronttext {
+	text-aling: center;
+	margin-top: 100px;
+	font-family: "Times New Roman", Times, serif;
+}
+
+#buttonJ {
+	margin: 50px 500px 500px 550px;
+}
+
+.nav {
+	background-color: white;
+	font-family: bold;
+}
+
+.navbar-brand {
+	font-family: bold;
+}
+
+.ghost-button {
+	color: black;
+	font-family: bold;
+}
+
+<!--
+-->
+.show {
+	display: block;
+}
+
+.navbar {
+	overflow: hidden;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.dropdown .dropbtn {
+	cursor: pointer;
+	font-size: 16px;
+	border: none;
+	outline: none;
+	color: black;
+	padding: 14px 16px;
+	background-color: inherit;
+	font-family: inherit;
+	margin: 0;
+}
+
+.dropdown-content {
+	display: none;
+	position: absolute;
+	min-width: 160px;
+	box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+	z-index: 1;
+}
+
+#bold {
+	color: black;
+	font-family: bold;
+}
+
+<!--
+-->
+#HsocialMedia, #contactFlex {
+	position: relative;
+	margin: 65px 100px 300px 100px;
+	border: 0px 10px 30px 10px;
+}
+
+#instagram, #facebook, #twitter, #tumblr, #threadless {
+	color: black;
+}
+
+#colorUnsee {
+	color: #FFF0F5;
+	
+}
+
+#mailSubmit {
+	font-size: 20px;
+	padding: 10px 24px;
+	width: 150px;
+	background-color: #FFF0F5;
+}
+
+<!--
+-->
+.carousel {
+	background-color: white;
+	margin: 0px 100px 100px 20px;
+	padding: 10px 10px 100px 10px;
+	width: 500px;
+}
+
+.flex-container {
+	display: flex;
+	justify-content: flex-start;
+}
+
+<!--
+-->
+.table {
+	background-color: #FFF0F5;
+	color: black;
+}
+
+#priceList {
+	margin: 20px 5px 100px 20px;
+	padding: 20px 5px 100px 20px;
+}
+
+th, td {
+	text-aling: center;
+	font-family: "Times New Roman", Times, serif;
+}
+
+th {
+	font-size: 20px;
+}
+
+#breitereSpalte {
+	width: 50px;
+}
+
+#continue-link {
+	background-color: black;
+	color: white;
+	margin: 25px 5px 5px 5px;
+}
+
+<!--
+-->
+#Customization {
+	margin-right: 200px;
+	margin-left: 50px;
+	width: 700px;
+	font-size: 20px;
+}
+
+#flexContainer {
+	display: flex;
+	flex-direction: row;
+}
+
+.fbox {
+	padding: 4px;
+}
+
+#center {
+	text-align: center;
+}
+
+#ExtrasSpalte {
+	font-size: 20px;
+}
+
+.item {
+	order: <integer>; /* default is 0 */
+}
+
+#CheckOutSummary {
+	position: relative;
+}
+
+#CheckOut {
+	margin: 50px 50px 50px 50px;
+}
+</
+style
+>
